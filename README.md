@@ -14,11 +14,16 @@ The purpose of this project is to provide two technical analysis deliverables an
 ## Election-Audit Results
 Below are the results based on the questions provided by the election commission:
 ![Election Results](/Resources/Results.PNG)
-    * How many votes were cast in this congressional election? 369,711
-    * Provide a breakdown of the number of votes and the percentage of total votes for each   county in the precinct.
-    * Which county had the largest number of votes?
-    * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-    * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+    - How many votes were cast in this congressional election? 369,711
+
+    - Provide a breakdown of the number of votes and the percentage of total votes for each   county in the precinct.
+
+    - Which county had the largest number of votes?
+
+    - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+    
+    - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ### Election-Audit Summary
 The quickest benchmark to compare if the refactoring reduced the execution times, is by comparing the run times between the codes. Below is a comparison of the 2017 pre and post refactoring run times. The pre time shows that the code ran in 1.15 seconds while the post time shows that the code ran in 0.13 seconds. The difference of 1.02 seconds which is almost 89% less run time.
