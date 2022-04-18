@@ -35,7 +35,7 @@ Below are the results based on the questions provided by the election commission
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-    - Diana DeGette won with 272,892 votes which represted 73.8% of the total votes. 
+    - Diana DeGette won with 272,892 votes which represented 73.8% of the total votes. 
 
 ### Election-Audit Summary
 As seen above, this script was able to quickly and clearly pull the additional information requested by the election commission. This script can be adapted not only for future elections for U.S. Congressional precinct in Colorado but any election. I can modify it to count the votes by the city or any other variable needed as long as we have the data. It also can be modified to show lowest turnouts as well to be used for future outreach as needed. 
