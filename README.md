@@ -13,7 +13,7 @@ The purpose of this project is to provide two technical analysis deliverables an
 
 ## Election-Audit Results
 Below are the results based on the questions provided by the election commission:
-![Election Results](/Resources/Results.PNG)
+![Election Results](/Resources/Election_Results.PNG)
 
 - How many votes were cast in this congressional election? 
     - 369,711
