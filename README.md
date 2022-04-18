@@ -8,12 +8,13 @@ I was requested by Tom, a Board of Elections employee to assist with the electio
 The purpose of this project is to provide two technical analysis deliverables and a written report to deliver the results. The requested deliverables to be provided to the election commission are:
 
 - [x] Deliverable 1: The election results printed to the command line
+![Command Line](/Resources/CommandLine.PNG)
 - [x] Deliverable 2: The election results saved to a text file
+![Election Results](/Resources/Election_Results.PNG)
 - [x] Deliverable 3: Written analysis of the election audit
 
 ## Election-Audit Results
 Below are the results based on the questions provided by the election commission:
-![Election Results](/Resources/Election_Results.PNG)
 
 - How many votes were cast in this congressional election? 
     - 369,711
