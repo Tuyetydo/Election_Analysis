@@ -38,4 +38,4 @@ Below are the results based on the questions provided by the election commission
     - Diana DeGette won with 272,892 votes which represted 73.8% of the total votes. 
 
 ### Election-Audit Summary
-The quickest benchmark to compare if the refactoring reduced the execution times, is by comparing the run times between the codes. Below is a comparison of the 2017 pre and post refactoring run times. The pre time shows that the code ran in 1.15 seconds while the post time shows that the code ran in 0.13 seconds. The difference of 1.02 seconds which is almost 89% less run time.
+As seen above, this script was able to quickly and clearly pull the additional information requested by the election commission. This script can be adapted not only for future elections for U.S. Congressional precinct in Colorado but any election. I can modify it to count the votes by the city or any other variable needed as long as we have the data. It also can be modified to show lowest turnouts as well to be used for future outreach as needed. 
